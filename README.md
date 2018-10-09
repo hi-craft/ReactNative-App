@@ -1,4 +1,4 @@
-<img src="http://p7ik6bm59.bkt.clouddn.com/856348822.jpg" width="500" hegiht="313" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/856348822.jpg" width="300" hegiht="500" align=center />
 # ReactNative-App
 App developed through react-native
 ### 通过React-Native进行开发
