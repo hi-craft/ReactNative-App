@@ -1,3 +1,4 @@
+<img src="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg" width="500" hegiht="313" align=center />
 # ReactNative-App
 App developed through react-native
 ### 通过React-Native进行开发
