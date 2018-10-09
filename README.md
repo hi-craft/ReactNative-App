@@ -12,22 +12,22 @@ App developed through react-native
 
 #### App主页
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/856348822.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/856348822.jpg" width="300" hegiht="400" align=center />
 
 #### App顶部导航栏子路由
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/2022658979.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/2022658979.jpg" width="300" hegiht="400" align=center />
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/357522919.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/357522919.jpg" width="300" hegiht="400" align=center />
 
 #### App底部导航子路由
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/1112890189.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/1112890189.jpg" width="300" hegiht="400" align=center />
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/1124056954.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/1124056954.jpg" width="300" hegiht="400" align=center />
 
 #### 顶部导航子路由详情
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/417077201.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/417077201.jpg" width="300" hegiht="400" align=center />
 
-<img src="http://p7ik6bm59.bkt.clouddn.com/1647054350.jpg" width="300" hegiht="500" align=center />
+<img src="http://p7ik6bm59.bkt.clouddn.com/1647054350.jpg" width="300" hegiht="400" align=center />
